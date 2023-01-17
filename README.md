@@ -7,7 +7,12 @@ This project is about building  a timed coding quiz with multiple-choice questio
 
 The URL of the GitHub repository and Web pages details are  as follows:
 
-image.png
+https://github.com/AbbyIT/Timed-Quiz
+https://abbyit.github.io/Timed-Quiz/
+
+
+Screenshot 
+link - image.png
 
 
 License Distributed under the MIT License. See LICENSE.txt for more information.
